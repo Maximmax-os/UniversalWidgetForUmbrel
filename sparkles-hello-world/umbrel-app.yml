@@ -1,18 +1,18 @@
 manifestVersion: 1
 id: UnWidgetUmbrel-hello-world
-name: Hello World
-tagline: Replace this tagline with your app's tagline
+name: Universal Widget
+tagline: Universal Widget
 icon: https://svgur.com/i/mvA.svg
 category: Development
 version: "1.0.0"
 port: 4000
 description: >-
   Add your app's description here.
-
+Universal Widget
 
   You can also add newlines!
 
-developer: Umbrel
+developer: Maximmax os
 website: https://umbrel.com
 submitter: Umbrel
 submission: https://github.com/getumbrel/umbrel-hello-world-app
